@@ -8,7 +8,7 @@
 "gender": "Male",
 "episode": [],
 "origin": "Earth (C-137)",
-"image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg",
+"image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg"
 },
 {
 "id": 2,
@@ -146,7 +146,6 @@
 "25"
 ]}
 ],
-
 "episodes": [
     {
     "id": 1,
